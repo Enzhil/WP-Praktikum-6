@@ -1,0 +1,58 @@
+body {
+  background-color: #e0dbdb;
+  font-size: 20px;
+}
+
+h1 {
+  background-color: #292f36;
+  color: #faf5f1;
+  text-align: center;
+  height: 65px;
+  margin-bottom: 0px;
+}
+
+blockquote {
+  background-color: #f6d55c;
+  text-align: center;
+  margin-top: 0px;
+  height: 40px;
+}
+
+.navbar {
+  list-style: none;
+  text-align: center;
+}
+
+.navbar li {
+  display: inline;
+  margin: 0 15px;
+}
+
+.gambar {
+  text-align: center;
+}
+
+.b {
+  font-size: 3.5em;
+  color: blue;
+}
+
+.jawa {
+  font-weight: bold;
+}
+
+h2 {
+  text-align: center;
+}
+
+.harga {
+  margin: auto;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #a41f13;
+  border: 1px dotted #faf5f1;
+  text-align: center;
+  font-weight: bold;
+  color: #ffff;
+}
